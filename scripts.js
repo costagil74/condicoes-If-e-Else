@@ -1,4 +1,4 @@
-const provaTecnica = 59;
+const provaTecnica = 80;
 
 if (provaTecnica >= 80 ) {
   console.log ("Parabéns, você foi aprovado (a)!");
