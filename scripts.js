@@ -8,3 +8,4 @@ if (provaTecnica >= 80 ) {
   console.log ("Você foi reprovada(o)");
 }
 
+
